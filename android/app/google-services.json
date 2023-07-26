@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1071775135119",
+    "project_id": "subham-chat-paul",
+    "storage_bucket": "subham-chat-paul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071775135119:android:0429c38696a92148ecc7fa",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071775135119-svu41oc27qo8npq78mj092jls3c7mjht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_ui",
+            "certificate_hash": "970b2526ca03c5c8b3b753a50c14792b7ab44bde"
+          }
+        },
+        {
+          "client_id": "1071775135119-jdiiu8f9ba3j810bcqn3opmr0v415mj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAignkm0Aef9dvv3POpvtlIoA7l_nobsI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071775135119-jdiiu8f9ba3j810bcqn3opmr0v415mj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071775135119-fqs5r0a8il5qgufvrkagf1921rskit8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

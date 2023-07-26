@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1071775135119-jdiiu8f9ba3j810bcqn3opmr0v415mj7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1071775135119</string>
+    <string name="google_api_key" translatable="false">AIzaSyAignkm0Aef9dvv3POpvtlIoA7l_nobsI4</string>
+    <string name="google_app_id" translatable="false">1:1071775135119:android:0429c38696a92148ecc7fa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAignkm0Aef9dvv3POpvtlIoA7l_nobsI4</string>
+    <string name="google_storage_bucket" translatable="false">subham-chat-paul.appspot.com</string>
+    <string name="project_id" translatable="false">subham-chat-paul</string>
+</resources>
