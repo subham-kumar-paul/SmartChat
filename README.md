@@ -4,17 +4,7 @@
 A completely Responsive Whatsapp UI App- works on Android, iOS, Web & Desktop! Works as WhatsApp App on Smaller Screen Sizes and WhatsApp Web on Bigger Screen Sizes!
 
 
-
-## Demo
-https://hungry-lichterman-63f0f3.netlify.app/#/
-
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://www.youtube.com/watch?v=g1hmeP8WZHU) 
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/whatsapp-flutter-ui/blob/main/screenshot.jpg" alt="Youtube Tutorial Image">
-</p>
-
+SMARTCHAT is a real-time chat application developed using Flutter and OpenAI. It combines an AI-based chatbot and an image generator to enhance user interaction and engagement. The chatbot utilizes natural language processing algorithms to understand user queries and generate relevant and context-aware responses. This AI-driven feature improves the user experience by providing accurate and efficient assistance. Additionally, the image generator leverages OpenAI's models to create visually appealing and customized images based on user input, adding a visual element to the chat experience. SMARTCHAT showcases the potential of integrating AI capabilities into chat applications, demonstrating the power of Flutter for cross-platform compatibility and creating a modern and intuitive user interface. Overall, this project highlights the effectiveness of combining Flutter and OpenAI technologies to develop a sophisticated and intelligent chat application that delivers personalized responses and generates captivating images.
 
 ## Installation
 After cloning this repository, migrate to ```whatsapp-flutter-ui``` folder. There, run the following commands:
@@ -26,5 +16,3 @@ After cloning this repository, migrate to ```whatsapp-flutter-ui``` folder. Ther
 ```
     
 ## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
